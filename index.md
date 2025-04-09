@@ -8,6 +8,7 @@ Here are my top three favorite ice-cream flavors:
 3. Cookie Butter
 here is what cookie butter ice-cream looks like:
 ![Scrumptious](https://barefeetinthekitchen.com/wp-content/uploads/2024/02/Cookie-Butter-Ice-Cream-BFK-11-1-of-1.jpg)
+
 A dessert I want to try is Croquemboushe. It looks like this:
 ![Mounth-watering](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSC4QpDGCWsJtCH5p-jojeXYWo_ca3_yN9NA&s)
 
