@@ -28,7 +28,7 @@ cat
 I like ```rn``` and ```rmdir``` because I often commit small mistakes like double clones or create a directory or a file in the wrong place. 
 I also like ```cat``` because I often find vim a little bit fo hassle and even overwhelming at time, as I feel like it takes me away from the terminal. That's why I use ```cat``` so that the text is displayed right there and I can select text rather than worryign about accidentally changes the work.
 This is my favorite webpage to use when I am stuck with syntax: [W3Schools](https://www.w3schools.com/java/java_arraylist.asp).
-Also here is the [README](cse110Lab1/README.md) file that I created for this lab. I am currently learn about how helpful README files can be and how important documentaion is for every implementation.
+Also here is the [README](README.md) file that I created for this lab. I am currently learn about how helpful README files can be and how important documentaion is for every implementation.
 here are the languages I have experience with:
 - Java
 - Python
